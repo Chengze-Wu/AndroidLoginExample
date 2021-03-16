@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 *.iml
 .gradle
 /local.properties
@@ -29,4 +29,4 @@ build/
 .idea/
 *.swp
 *~
->>>>>>> 18af8ea2de92cee0599c23b5549061b88d121fa0
+
